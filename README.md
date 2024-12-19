@@ -60,3 +60,4 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/user-attachments/assets/3a51af9c-a55a-4f32-838f-5e356fc02ab6)
 
 # Output 
+Thus the program to analyse given data using coefficient of correlation and regression line has been sucessfully done
